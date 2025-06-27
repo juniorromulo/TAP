@@ -1,0 +1,5 @@
+Olá, professor! Não sei se o Sr vai lembrar, mas eu sou o aluno que conversou com o Sr algumas vezes por email (romulojunior301@gmail.com e romulo.junior@icomp.ufam.edu.br), e conversamos sobre a forma como implementei e projetei o meu trabalho:
+
+Como minhas classes Cliente e Tecnico possuem ArrayList, seria muito difícil eu manter todos os dados dentro do SQL, uma vez que seria necessário que eu utilizasse chave estrangeira para outras tabelas que guardariam o conteúdo e talvez outros conceitos, logo, concordamos que seria melhor simplificar essa parte. O que eu fiz foi guardar apenas os identificadores dos pedidos do Cliente e Tecnico na célula do SQL, e os objetos como um todo eu guardei nos ArrayLists criados na função Main (MainOficina). 
+
+Busquei preencher ao máximo todos os requisitos mínimos pedidos no trabalho, infelizmente não consegui fazer a remoção de pedidos como chegamos a comentar uma vez(apenas quando removemos um cliente da base, que foi um dos requisitos mínimos), pois encontrei dificuldades em algumas coisas... Mas é isso, obrigado! 
